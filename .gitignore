@@ -1,0 +1,6 @@
+# Node.js dependencies (if you use any later)
+node_modules/
+
+# Other potential ignored files
+.DS_Store
+*.log
